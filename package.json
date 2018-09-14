@@ -1,9 +1,9 @@
 {
-  "name": "untitled1",
+  "name": "library",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --watch",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
